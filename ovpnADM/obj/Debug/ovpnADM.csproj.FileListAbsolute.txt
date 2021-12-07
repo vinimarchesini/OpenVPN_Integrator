@@ -1,0 +1,11 @@
+D:\Compartilhamento\OneDrive\Programação\Projects\ovpnADM\ovpnADM\ovpnADM\bin\Debug\ovpnADM.exe.config
+D:\Compartilhamento\OneDrive\Programação\Projects\ovpnADM\ovpnADM\ovpnADM\bin\Debug\ovpnADM.exe
+D:\Compartilhamento\OneDrive\Programação\Projects\ovpnADM\ovpnADM\ovpnADM\bin\Debug\ovpnADM.pdb
+D:\Compartilhamento\OneDrive\Programação\Projects\ovpnADM\ovpnADM\ovpnADM\bin\Debug\CommandLine.dll
+D:\Compartilhamento\OneDrive\Programação\Projects\ovpnADM\ovpnADM\ovpnADM\bin\Debug\CommandLine.xml
+D:\Compartilhamento\OneDrive\Programação\Projects\ovpnADM\ovpnADM\ovpnADM\obj\Debug\ovpnADM.csprojResolveAssemblyReference.cache
+D:\Compartilhamento\OneDrive\Programação\Projects\ovpnADM\ovpnADM\ovpnADM\obj\Debug\ovpnADM.exe
+D:\Compartilhamento\OneDrive\Programação\Projects\ovpnADM\ovpnADM\ovpnADM\obj\Debug\ovpnADM.pdb
+C:\Users\Vinicius\OneDrive\Programação\Projects\OpenVPN_Integrator\ovpnADM\bin\Debug\ovpnADM.exe.config
+C:\Users\Vinicius\OneDrive\Programação\Projects\OpenVPN_Integrator\ovpnADM\obj\Debug\ovpnADM.exe
+C:\Users\Vinicius\OneDrive\Programação\Projects\OpenVPN_Integrator\ovpnADM\obj\Debug\ovpnADM.pdb

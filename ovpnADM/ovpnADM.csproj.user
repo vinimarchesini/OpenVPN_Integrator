@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-f"C:\Program Files\OpenVPN\bin\openvpn.exe" -c"C:\Program Files\OpenVPN\config\SPEQXFWCARREFOUR-PF01-UDP4-1194-usr_carrefour-config\SPEQXFWCARREFOUR-PF01-UDP4-1194-usr_carrefour-config.ovpn" -l"C:\Program Files\22122020-1351.txt" -u"ccm7_2" -p"vpnmutant"</StartArguments>
+  </PropertyGroup>
+</Project>
